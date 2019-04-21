@@ -1,1 +1,1 @@
-# duplicates-from-list
+# DATA STRUCTURE using python
